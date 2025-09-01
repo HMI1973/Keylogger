@@ -1,0 +1,10 @@
+Mouse:(1004,672) B:(True,False,False) W:0
+Mouse:(620,579) B:(True,False,False) W:0
+Mouse:(1016,700) B:(True,False,False) W:0
+Mouse:(1643,1055) B:(False,False,True) W:0
+Mouse:(1003,782) B:(False,True,False) W:0
+Mouse:(823,418) B:(True,False,False) W:0
+Mouse:(823,417) B:(True,False,False) W:0
+Mouse:(71,78) B:(True,False,False) W:0
+Mouse:(70,78) B:(True,False,False) W:0
+Mouse:(688,42) B:(True,False,False) W:0
